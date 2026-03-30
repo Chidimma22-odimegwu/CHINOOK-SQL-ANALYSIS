@@ -69,10 +69,6 @@ The Chinook database simulates a digital music store containing:
 ##  Database Compatibility
 All queries are optimized for:
 
-**Microsoft SQL Server (SSMS)**
+Microsoft SQL Server (SSMS)
 MySQL syntax was converted to T-SQL where necessary.
 
----
-
-## 🚀 Author
-Data Analyst Portfolio Project
